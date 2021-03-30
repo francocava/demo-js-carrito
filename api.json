@@ -1,0 +1,32 @@
+[
+    {
+      "precio": 450,
+      "id": 1,
+      "title": "Ravioles",
+      "thumbnailUrl": "https://cocinerosargentinos.com/content/recipes/500x500/recipes.12367.jpeg"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Pizza Muzzarela",
+      "thumbnailUrl": "https://soloporgusto.com/wp-content/uploads/2020/09/csf-muzza.jpg"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "https://pizzeriamegusta.es/wp-content/uploads/2019/05/IMG1_ECOM-100-360x360.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 4,
+      "title": "Cerveza",
+      "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/585/790/products/1598966633539-img98941-f5bc1b1fa9ade2d3be16040898315243-1024-1024.png"
+    },
+    {
+      "precio": 210,
+      "id": 5,
+      "title": "Mousse",
+      "thumbnailUrl": "https://t1.rg.ltmcdn.com/es/images/4/4/8/mousse_de_chocolate_sin_nata_6844_600_square.jpg"
+    }
+  ]
